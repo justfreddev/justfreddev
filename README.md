@@ -7,11 +7,9 @@
 
 <h2>About Me</h3>
 <pre>
-💻 I am constantly growing my skills as a Developer
 📚 Computer Science, Maths and Further Maths student
 🔭 Currently working on an <a id="interpreter-link" href="https://github.com/justfreddev/interpreter_v1">Interpreter</a>
 🌱 Looking to collaborate on Open Source Projects with Python/Rust
-📝 Focusing on maintaining good practices within my code
 🌟 Main language: Python
 📫 Contact me: <a href="mailto:fred@padgham.co.uk">fred@padgham.co.uk</a>
 </pre>
